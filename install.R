@@ -1,5 +1,2 @@
-install.packages('ggplot2')
-install.packages("rgeos", repos='http://cran.us.r-project.org')
-install.packages("rgdal", repos='http://cran.us.r-project.org')
-install.packages("tmap", repos='http://cran.us.r-project.org')
-install.packages("dplyr", repos='http://cran.us.r-project.org')
+install.packages("tidyverse")
+install.packages("tmap")
