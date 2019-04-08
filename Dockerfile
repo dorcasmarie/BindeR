@@ -1,4 +1,4 @@
-FROM rocker/geospatial:3.5.3
+FROM rocker/verse:3.5.3
 
 ## Copies your repo files into the Docker Container
 USER root
